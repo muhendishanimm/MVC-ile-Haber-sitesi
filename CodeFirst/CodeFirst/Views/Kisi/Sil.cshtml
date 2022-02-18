@@ -1,0 +1,40 @@
+﻿@model CodeFirst.Models.Kisi
+@{
+    ViewBag.Title = "Yeni";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kişi Silme Sayfası</h2>
+<hr />
+<div class="container">
+
+    <h5 style="color:red;" class="my-4">Kaydı silmek istediğinize emin misiniz?</h5>
+
+    <table>
+        <tr>
+            <td><b>Ad: </b></td>
+            <td>@Model.Ad</td>
+        </tr>
+        <tr>
+            <td><b>Soyad: </b></td>
+            <td>@Model.Soyad</td>
+        </tr>
+        <tr>
+            <td><b>Yaş: </b></td>
+            <td>@Model.Yas</td>
+        </tr>
+    </table>
+
+    @using (Html.BeginForm())
+    {
+        <div class="input-group my-4">
+            <input type="submit" value="Sil" class="btn btn-danger" />
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="alert alert-@ViewBag.Status" role="alert">@ViewBag.Result</div>
+        </div>
+    }
+
+</div>
+

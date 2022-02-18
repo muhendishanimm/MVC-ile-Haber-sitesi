@@ -1,0 +1,43 @@
+﻿@model CodeFirst.Models.Adres
+@{
+    ViewBag.Title = "Yeni";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Yeni Adres Ekleme Sayfası</h2>
+<hr />
+<div class="container">
+    @using (Html.BeginForm())
+    {
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Adres</span>
+            </div>
+            @Html.TextAreaFor(x => x.AdresTanim, new { @class = "form-control", placeholder = "Adres Bilgisi", aria_label = "txtAdres", aria_describedby = "txtAdres", rows="5", cols="30" })
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Şehir</span>
+            </div>
+            @Html.TextBoxFor(x => x.Sehir, new { @class = "form-control", placeholder = "Şehir Bilgisi", aria_label = "txtSehir", aria_describedby = "txtSehir" })
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Kişiler</span>
+            </div>
+            @Html.DropDownListFor(x => x.Kisiler.ID, (List<SelectListItem>)ViewBag.kisiler, new { @class="form-control", aria_describedby="ddlKisi"})
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="submit" value="Kaydet" class="btn btn-primary" />
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="alert alert-@ViewBag.Status" role="alert">@ViewBag.Result</div>
+        </div>
+    }
+
+</div>
+

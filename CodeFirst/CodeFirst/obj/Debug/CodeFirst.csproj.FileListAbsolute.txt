@@ -1,0 +1,156 @@
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\CodeFirst.dll.config
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\CodeFirst.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\CodeFirst.pdb
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csc.exe
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csc.exe.config
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csc.rsp
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csi.exe
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csi.exe.config
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\csi.rsp
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Console.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Net.Http.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\vbc.exe
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\vbc.rsp
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\EntityFramework.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\FakeData.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Helpers.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Mvc.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Razor.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\EntityFramework.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\FakeData.pdb
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Razor.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Helpers.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\System.Web.Mvc.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Seyfullah Gökoğlu\Desktop\MyWorks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\CodeFirst.dll.config
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\CodeFirst.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\CodeFirst.pdb
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csc.exe
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csc.exe.config
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csc.rsp
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csi.exe
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csi.exe.config
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\csi.rsp
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.AppContext.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Console.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.IO.Compression.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Net.Http.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Net.Sockets.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.ValueTuple.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XPath.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\vbc.exe
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\vbc.exe.config
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\vbc.rsp
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\VBCSCompiler.exe
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\EntityFramework.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\FakeData.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Helpers.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Mvc.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Razor.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.Deployment.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.Razor.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\EntityFramework.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\FakeData.pdb
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Razor.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.Deployment.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Webpages.Razor.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Helpers.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\System.Web.Mvc.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\obj\Debug\CodeFirst.dll
+D:\3.sınıf 2.dönem\web-3.sınıf2.dönem(Seyfullah Gökoğlu)\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb

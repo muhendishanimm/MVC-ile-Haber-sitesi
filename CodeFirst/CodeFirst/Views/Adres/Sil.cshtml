@@ -1,0 +1,40 @@
+﻿@model CodeFirst.Models.Adres
+@{
+    ViewBag.Title = "Yeni";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Adres Silme Sayfası</h2>
+<hr />
+<div class="container">
+
+    <h5 style="color:red;" class="my-4">Kaydı silmek istediğinize emin misiniz?</h5>
+
+    <table>
+        <tr>
+            <td><b>Adres Sahibi: </b></td>
+            <td>@(Model.Kisiler.Ad+" "+Model.Kisiler.Soyad)</td>
+        </tr>
+        <tr>
+            <td><b>Şehir: </b></td>
+            <td>@Model.Sehir</td>
+        </tr>
+        <tr>
+            <td><b>Adres Bilgisi: </b></td>
+            <td>@Model.AdresTanim</td>
+        </tr>
+    </table>
+
+    @using (Html.BeginForm())
+    {
+        <div class="input-group my-4">
+            <input type="submit" value="Sil" class="btn btn-danger" />
+        </div>
+    
+    <div class="input-group mb-3">
+        <div class="alert alert-@ViewBag.Status" role="alert">@ViewBag.Result</div>
+    </div>
+    }
+
+</div>
+

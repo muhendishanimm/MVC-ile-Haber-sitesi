@@ -1,0 +1,50 @@
+﻿@using CodeFirst.Models.ViewModels
+@model homepageViewModel
+@{
+    ViewBag.Title = "homepage";
+}
+<h2>homepage</h2>
+
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div>
+                @Html.ActionLink("Yeni Kişi", "Yeni", "Kisi", null, new { @class = "btn btn-success mb-3" })
+            </div> 
+
+            <ul class="list-group">
+                <li class="list-group-item active"><h4>Kişiler</h4></li>
+                @foreach (var kisi in Model.Kisiler)
+                {
+            <li class="list-group-item">
+                @Html.ActionLink("Düzenle", "Duzenle", "Kisi", new { kisiID = kisi.ID }, new { @class = "btn btn-warning btn-sm" })
+                @Html.ActionLink("Sil", "Sil", "Kisi", new { kisiID = kisi.ID }, new { @class = "btn btn-danger btn-sm" })
+                <span class="material-icons">assignment_ind</span>
+                @(kisi.Ad+" "+kisi.Soyad)
+                <span class="badge badge-success">@kisi.Yas</span>
+            </li>
+                }
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <div>
+                @Html.ActionLink("Yeni Adres", "Yeni", "Adres", null, new { @class = "btn btn-success mb-3" })
+            </div>
+
+            <ul class="list-group">
+                <li class="list-group-item active"><h4>Adresler</h4></li>
+                @foreach (var adres in Model.Adresler)
+                {
+            <li class="list-group-item">
+                @Html.ActionLink("Düzenle", "Duzenle", "Adres", new { adresID = adres.ID }, new { @class = "btn btn-warning btn-sm" })
+                @Html.ActionLink("Sil", "Sil", "Adres", new { adresID = adres.ID }, new { @class = "btn btn-danger btn-sm" })
+                <span class="material-icons">home</span>
+                @(adres.Sehir+" / "+adres.AdresTanim) <em>(@(adres.Kisiler.Ad+" "+adres.Kisiler.Soyad))</em>
+            </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
